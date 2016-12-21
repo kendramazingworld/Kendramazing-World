@@ -24,13 +24,11 @@
     <li> United States </li>
     <li> Canada </li>
   </ol>
-  
-      
-
-</body> 
+  </body> 
 
 	        	<li><a href="/About">About</a></li>
         		<li><a href="/Documentaries">CV</a></li>
+			  <a href="http://en.wikipedia.org/wiki/Brown_bear "target="_blank"> Learn More </a>
         		<li><a href="/Blogs">Blog</a></li>
            		<li><a href="/Contact">Blog</a></li>
     		</ul>
